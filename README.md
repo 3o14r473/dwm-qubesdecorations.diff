@@ -12,6 +12,7 @@ Each qube-label gets its own SchemeSel colorscheme that can be conviniently conf
 
 Download
 --------
+* [dwm-qubesdecorations-6.3.diff](dwm-qubesdecorations-6.3.diff) (2022-01-07)
 * [dwm-qubesdecorations-6.2.diff](dwm-qubesdecorations-6.2.diff) (2019-12-30)
 
 Author
